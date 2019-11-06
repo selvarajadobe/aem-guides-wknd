@@ -12,6 +12,7 @@ This is the code companion to a multi-part series on HelpX:
 6. [Unit Testing](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/unit-testing.html)
 7. [Header and Footer](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/header-footer.html)
 8. [Landing Page](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/landing-page.html)
+9. Dispatcher Settings for Cloud Manager
 
 ## Modules
 
